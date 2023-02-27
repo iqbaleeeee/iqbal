@@ -1,0 +1,7 @@
+header {}
+
+header h1 {
+    float: left;
+    padding: 15px 0px;
+    color: black;
+}
